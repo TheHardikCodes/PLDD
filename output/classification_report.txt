@@ -1,0 +1,27 @@
+                                      precision    recall  f1-score   support
+
+                     Apple_Scab_Leaf       0.00      0.00      0.00         0
+                     Apple_rust_leaf       0.00      0.00      0.00         0
+                      Blueberry_leaf       0.00      0.00      0.00         0
+                         Cherry_leaf       0.00      0.00      0.00         0
+                      Corn_rust_leaf       0.00      0.00      0.00         0
+                          Peach_leaf       0.00      0.00      0.00         0
+            Potato_leaf_early_blight       0.00      0.00      0.00         0
+             Potato_leaf_late_blight       0.00      0.00      0.00         0
+                      Raspberry_leaf       0.00      0.00      0.00         0
+                       Soyabean_leaf       0.00      0.00      0.00         0
+          Squash_Powdery_mildew_leaf       0.00      0.00      0.00         0
+           Tomato_Septoria_leaf_spot       0.00      0.00      0.00         0
+                         Tomato_leaf       0.00      0.00      0.00         0
+          Tomato_leaf_bacterial_spot       0.00      0.00      0.00         0
+             Tomato_leaf_late_blight       1.00      0.93      0.97        46
+            Tomato_leaf_mosaic_virus       0.89      0.91      0.90        44
+            Tomato_leaf_yellow_virus       0.98      0.97      0.98       223
+                    Tomato_mold_leaf       0.99      0.84      0.90        85
+Tomato_two_spotted_spider_mites_leaf       1.00      1.00      1.00         2
+                          grape_leaf       0.95      0.97      0.96        63
+                grape_leaf_black_rot       1.00      0.86      0.92        71
+
+                            accuracy                           0.93       534
+                           macro avg       0.32      0.31      0.32       534
+                        weighted avg       0.97      0.93      0.95       534
