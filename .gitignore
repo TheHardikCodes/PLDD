@@ -1,6 +1,7 @@
 dataset/
-output/
 uploads/
 __pycache__/
-*.pt
-*.pth
+
+
+output/*
+!output/class_names.json
