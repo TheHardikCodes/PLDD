@@ -1,1 +1,6 @@
-
+dataset/
+output/
+uploads/
+__pycache__/
+*.pt
+*.pth
