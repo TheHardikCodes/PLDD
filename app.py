@@ -13,6 +13,7 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 HTML = r"""<!DOCTYPE html>
 <html lang="en" data-theme="dark" data-lang="en">
 <head>
+<meta name="google-site-verification" content="LPV4rP_-SiYdkT3ZNkNg34xRQSsYwwiz0GN8ZyRx0os" />
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
 
