@@ -15,8 +15,14 @@ HTML = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
-<title>LeafScan — Farmer's AI</title>
-<meta name="description" content="AI powered plant disease detection app for farmers">
+
+<title>LeafScan - AI Plant Disease Detector</title>
+
+<meta name="description" content="LeafScan is a free AI-powered plant disease detection tool for farmers.">
+
+<meta name="keywords" content="LeafScan, plant disease detection, AI farming, crop disease detector">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 [data-theme="dark"]{
